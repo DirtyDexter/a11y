@@ -1,0 +1,43 @@
+Semantic  
+	- button/link - default behaviour
+
+Form control 
+ - label with ‘for’
+
+Image 
+	- alt 
+
+Headings 
+	- not large text 
+	- depends on section/sub-section 
+Links
+ 	- link with href and proper text
+
+Semantic tags
+	- header, nav, main, section, article, aside, footer
+
+Focus
+
+
+WAI - Web Accessibility Initiative
+
+ARIA - Accessible Rich Internet Applications 
+	-role
+	- aria-label
+	- aria-labelledby
+	- aria-describedby
+ 	- role
+	-aria-attribute
+  - aria-expanded 
+	-aria-owns
+	-aria-posinsize
+	-aria-setsize
+	-aria-descendentactive 	-aria-live
+	-aria-atomic used with -aria-live
+	-aria-relevant used with -aria-live
+	-aria-busy used with -aria-live
+
+Mouse and keyboard event
+
+Contrast ratio
+NoCofee crome extension

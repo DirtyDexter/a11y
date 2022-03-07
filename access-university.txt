@@ -1,0 +1,322 @@
+
+1- Glossary of Accessibility Terms ->
+
+
+a11y: short for ‘‘accessibility’’ (there are 11 letters between ‘‘a’’ and ‘‘y’’)
+
+ACAA: Air Carrier Access Act
+
+accessibility: the extent to which a product is functionally usable by people with disabilities
+
+activate: perform the default action on a specific element without regard to the specific method such as with a mouse, keyboard, by voice, etc.
+
+active element: the element which currently has focus
+
+ADA: Americans with Disabilities Act
+
+alt text: text associated with an image that communicates the equivalent purpose of the image
+
+alternative flow: a secondary path a user might take to perform a task in a use case
+
+ARIA: Accessible Rich Internet Application – additional states and properties added to page content and widgets that provide new or enhanced semantic meaning to elements
+
+assistive technology: tools used to increase, maintain, or allow access to something that would otherwise be difficult or impossible for a person with a disability to access
+
+attribute: a named property of an element generally with a value
+
+audio description: a track that describes what is happening in a video (beyond dialogue)
+
+audit: a review of your system to determine overall compliance
+
+automatic testing: tests which can be run by a computer with no human help
+
+best practices: documents describing accessibility issues and the best way to solve them
+
+blind: having no usable level of visual perception
+captions: on-screen text that is synchronized with dialogue, identifies the speaker, and other sounds (e.g., music, creaking door)
+
+cognitive disability: a range of disabilities that may cause difficulty understanding or performing certain tasks
+
+colorblind: an inability to distinguish between certain colors 
+
+complaint: a formal filing in a court of law that initiates a lawsuit 
+
+compliance: adhering to the laws and/or standards 
+
+conformance: adhering to the laws and/or standards
+
+contrast / contrast ratio: a ratio indicating the visibility between the lightness of two colors, such as a text and background
+
+crawler: a process which catalogs all the reachable pages on a website (aka “spider”)
+
+CVAA: 21st Century Communications and Video Accessibility Act
+
+deaf: having no usable perception of sound
+
+demand letter: a letter stating a legal claim, often sent before a formal complaint is filed, as an attempt to settle out of court
+
+development lifecycle: the process of developing a system: planning, creating, testing, deploying, maintaining
+
+DOM: Document Object Model – the internal hierarchical construct of the content and containers in a web page generated and maintained by a web browser
+
+Dragon: a commercial voice-to-text application, supporting both text input and voice control of software and websites
+
+EIT: Electronic & Information Technology
+
+element: a single node in the DOM tree
+
+enter or input: type something into the form field
+
+exception: a branch of a use case that tests what happens when the user makes an error
+focus: a control or piece of content that is the current point of interest, that can be read by a screen reader, clicked by a mouse, or manipulated by keyboard
+
+functionally accessible: when a use case does not conform 100% to accessibility standards but a user is still able to complete the task
+
+gain focus on: keyboard focus moves to a specific element
+
+groundwork: identifying and capturing a specific set of modules and use cases which give a representative sample of the system
+
+guided automatic test: automatic tests which need verification by a person
+
+hard of hearing: having limited audio perception
+
+ICT: Information and Communications Technology
+
+intellectual disability: see cognitive disability
+
+ITI: Information Technology Industry (Council)
+
+JAWS: a commercial screen reader for Windows primarily used by people who are blind or visually impaired 
+
+label: text or image with alt text that is presented to the user to identify and describe what goes in a particular field (e.g., “Date of Birth”) or what a check box or radio button relates to (e.g., “Yes” or “18-35 years old”)
+
+learning disability: see cognitive disability
+
+legally blind: 20/200 or less vision or less than a 20-degree field of vision in the best corrected eye
+
+limited mobility: having limited control of the physical body or pain when moving
+
+locate: browse through the system to find a certain element
+
+low vision: having limited visual perception
+
+manual testing: tests which require a human to run them
+
+module: a group of related content and/or controls (e.g., navigation bar or full web page)
+
+navigate: move to a particular page or a particular location on the page
+
+noticeability: likelihood that a given violation will be detected by users of a system
+
+NVDA: a free screen reader for Windows
+
+occurrence [rate]: measure of how often a particular violation happens within a module
+
+OCR: Office for Civil Rights (generally at an organization, department, or agency level)
+
+OCR: optical character recognition – technology which attempts to convert an image of text into usable text characters that can be read by a screen reader
+
+operable: when a user can operate a user interface or component to perform an interaction
+
+overlay: JavaScript that remediates accessibility issues on page load. A quick way to achieve compliance while working on code-level changes over time.
+
+perceivable: content and controls must be presented in a way that is not invisible to all of a person’s senses 
+
+QA: Quality Assurance – the process of reviewing and testing a product or new feature before releasing it to the public
+
+refreshable braille display: a device often controlled by a screen reader that translates on-screen or electronic text into refreshable Braille generally using actuators to control physical Braille cells
+
+regression testing: testing that a remediation has been successful and has not introduced new bugs
+
+remediation: fixing issues discovered by testing
+
+responsive (web design): content adapts automatically based on the size of the display (computer, tablet, phone)
+
+retrofitting: implementing fixes in an existing system 
+
+robust: content must remain usable as technologies advance 
+
+role: an indicator of type (e.g., button, checkbox)
+
+screen magnifier: software that enlarges the content and provides visual cues to navigate
+
+screen reader: software that reads screen content out loud, often drives a refreshable Braille display, and allows navigation by keyboard
+
+SDLC: Software Development Lifecycle – see “development lifecycle”
+
+Section 1557: part of the Affordable Care Act which relates to digital accessibility
+
+Section 255: part of the Communications Act which relates to telecommunications accessibility
+
+Section 508: part of the Rehabilitation Act which requires use, maintenance, development, and procurement of accessible ICT by the US federal government
+
+severity: measure of how large an impact on the user experience a best practice violation will have
+
+sip and puff: a device that allows someone with very limited mobility to operate technology via air pressure from their mouth
+
+speech impairment: a range of disabilities ranging from no speech to difficulty speaking clearly 
+
+spider: a process which catalogs all the reachable pages on a website (aka “crawler”) 
+
+structure: hierarchy of content, usually created with headings and subheadings
+
+success criteria: specific technical standards for a particular element of your website/app/product
+
+support statement: document outlining your product’s support of the WCAG success criteria
+
+switch access / control: buttons with large targets that allow a person with limited mobility to operate a device
+tagging: process by which a PDF is made accessible to screen readers by providing semantic information and structural hierarchy to the content of the PDF
+
+TalkBack: a free screen reader for Android devices
+
+text-to-speech: the process of converting computer text to audible speech
+
+tractability: estimated costs of fixing violations in accordance with best practices
+
+transcription: a document that contains the same dialogue including indication of speakers and other information as a video or audio clip
+UAT: User Acceptance Testing – testing performed by a client on a supplier’s product or content before the client accepts that product or content
+
+understandable: the information and operation must be easily comprehensible
+
+use case: a task a user can do in your system (e.g., create new account)
+
+User Agent: a browser or similar piece of technology which converts web page content from technical languages (e.g., HTML, CSS, and JavaScript) to a format with which a user can interact (usually a visual webpage)
+
+User Agent String: an identifier sent by a browser with each request that includes basic information like browser name, version, and operating system
+
+validation testing: testing that a remediation has been successful and has not introduced new bugs
+
+visual indication of keyboard focus: a box shown on the display that contains the currently focused content or control
+
+voice-to-text: the process of converting a user’s speech into navigation or typed words
+
+VoiceOver: a free screen reader included on MacOS and iOS devices
+
+VPAT: Voluntary Product Accessibility Template – accessibility support statement required for selling into the federal government
+
+W3C: World Wide Web Consortium – sets the standards used to make web technologies interoperable
+
+WCAG: Web Content Accessibility Guidelines – lay out the minimum requirements to make content and controls accessible
+
+ZoomText: a commercial application that allows users to magnify content on their screen and/or change foreground and background colors to achieve more contrast
+
+
+
+
+2- ADA - Americans with Disability Act
+
+Part 1- Employment
+Part 2- Access to facilities and Services
+Part 3- Public Accommodation
+Part 4- Telecommunications
+
+
+WCAG 2.0 - AA
+
+
+3- Section - 508
+  -Amendment in US Rehabilitation Act in 1998
+  -Accessible Govt Technology - Some exception - National Security etc
+  -NOT private companies
+
+  FAR: Federal Acquisition Regulation
+  ICT: Information and Communications Technology
+  VPAT: Voluntary Product Accessibility Template
+  GPAT: Government Product/Services Accessibility Template
+  CVAA: Twenty-First Century Communications and Video Accessibility Act
+  WCAG: Web Content Accessibility Guidelines
+
+4- Web a11y
+  -Avoid Use of Before, After, Pseudo Classes for Non-Decorative Content
+  -Content within these pseudo classes do not render through screen readers, with the exception of VoiceOver.
+  -DO NOT DO THIS- .required:after{content:'- Required'; font-size:0.75em;}
+  -Ensure the reading order of content and elements are correct when viewed without style sheets.
+  -Ensure text can be resized
+  -It is best to avoid the use of CSS background images that convey meaning or sensory experience.
+
+5- keyboard Access
+  - Event Handler	Alternative
+    OnClick	      OnKeyPress
+    OnMouseDown	  OnKeyDown
+    OnMouseUp	    OnKeyUp
+    OnMouseOver	  OnFocus
+    OnMouseOut	  OnBlur
+    OnDblClick	  OnKeyDown
+  - Follow keyboard design pattern for each control
+  - Keyboard Traps
+  - Keyboard shortcuts
+   - <input type="button" id=“btnHome" value=“Home (Accesskey: 1)" accesskey=“1“ />
+   - Verify the shortcut key or accesskey does not conflict with the browser.
+   - Verify that when the shortcut key or accesskey is the sole means of access it does not conflict with keystrokes commonly used by assistive technology.
+
+6- Focus Control
+  - Avoid forced focus changes that are NOT initiated by the user.
+  - Make sure forced focus changes, such as an onChange or onfocus event, are not used to change context
+  - Ensure revealed content receives focus.
+  - When activating elements to open or display content, users expect the focus to be directed at the new content.
+  - Common examples: expanded content, alerts, new table rows, additional form fields, etc.
+  - If focus is not moved to the new content, users may miss critical alerts or other important pieces of information, or will have to read through entire page to find new content.
+  - tabindex
+  - A negative value (usually tabindex="-1") means that the element is not reachable via sequential keyboard navigation, but could be focused with JavaScript or visually by clicking with the mouse. It's mostly useful to create accessible widgets with JavaScript.
+  - Note: A negative value is useful when you have off-screen content that appears on a specific event. The user won't be able to focus any element with a negative tabindex using the keyboard, but a script can do so by calling the focus() method.
+  - tabindex="0" means that the element should be focusable in sequential keyboard navigation, after any positive tabindex values and its order is defined by the document's source order.
+
+7- Embeded Media
+  - Ensure embedded objects are directly accessible.
+  - Video/Audio - accessible
+  - Closed/Open caption
+  - Text script
+  - Accessible plug-in
+
+8- Animation and Dynamic Content
+  - Provide controls to pause, stop, or hide any dynamic content or animation.
+  - When animated content cannot be made accessible or cannot be stepped through, provide a method to stop the animation, or provide an alternative non-animated version of the information.
+  - A web page with blinking or flashing content may distract a user with a cognitive disability or low vision.
+  - Elements including images that contain rapidly flashing content (content which flashes three times a second or more) may trigger epileptic seizures in individuals with photosensitive epilepsy.
+  - This includes the use of flashing or blinking content in multimedia.
+  - Verify that the screen size of the combined blinking elements is not greater than 3% (WCAG 2 only).
+
+
+9- A11y properties and events
+  - ARIA- http://www.w3.org/WAI/intro/aria.php
+  - Ensure appropriate ARIA roles, states and properties are used and are valid
+  - Live Regions for Dynamic Content
+    - Mark areas of the page that change as live regions using aria-live.
+      - "polite" for areas with normal precedence
+      - "assertive" for areas with urgent precedence
+    - aria-labelledby
+    - aria-live="off" - for regions where content updates should be ignored by assistive technology.
+    - aria-describedby
+    - aria-controls - points to IDREFS (a list of space-delimited references to unique document identifiers) that reference live regions that are controlled by the element
+    - aria-atomic (true/false) - (use when the parts do not updated synchronously)
+    - aria-relevant (additions, removals, text, all) - (Use when default relevant settings don't apply)
+
+10- Dialog Boxes
+  - Focus moves to open dialog boxes and remains in the dialog box.
+  - Ensure dialog boxes indicate the beginning and end of content.
+  - Ensure that simulated dialogs can be closed via the keyboard and keyboard focus returns properly from dialog boxes.
+  - Ensure calendar components are accessible with the keyboard and do not rely on color or formatting.
+
+11- WCAG-2.1
+  - 17 new criteria
+  - Mostly for small devices and touch screen
+  - WCAG 2.0 set the foundation for color contrast minimums, but it applied solely to text. With WCAG 2.1, we’re considering color contrast of not just text but also user interface components and graphical objects. This includes things like borders of active form fields, as well as icons and graphics that convey important visual information.
+  - Use 'autocomplete' attribute - https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete and https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill
+  - Ensure that character key shortcuts without modifiers can be reconfigured or deactivated
+  - Ensure that content that appears on hover or focus may be dismissed by the user
+  - Ensure content that appears on hover or focus is persistent until dismissed, not valid, or the trigger is removed
+  - WCAG 2.1 success criteria specifies the minimum spacing for line height, paragraphs, letters and words (1.5 times the font size, 2 times the font size, 0.12 times the font size and 0.16 times the font size, respectively)
+  - Ensure pages reflow without requiring two-dimensional scrolling without loss of content or functionality
+  - Ensure that content and functionality is available when the user overrides text spacing properties
+  - Ensure that functionality can be operated through a single pointer except when a multi-point or path based gesture is essential
+  - Ensure events triggered by single-point activation can be cancelled
+  - Ensure that motion is not the only method to activate user interface components
+  - Avoid restricting the operation or viewing of content in different display orientations
+  - Developers need to ensure that at least one of the following is true:
+    1- The down-event of the pointer is not used to execute any part of the function;
+    2- Completion of the function is on the up-event, and a mechanism is available to abort the function before completion or to undo the function after completion;
+    3- The up-event reverses any outcome of the preceding down-event.
+  - Status message- https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html - aria-live
+
+12- ARIA
+  - 
