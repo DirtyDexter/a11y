@@ -319,4 +319,20 @@ WCAG 2.0 - AA
   - Status message- https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html - aria-live
 
 12- ARIA
-  - 
+  - aria-labelledby
+  - aria-describedby
+  - Avoid outline:none
+  - When using <div role="button"> for button, handle all properties of <button> like space and enter key to activate button
+  - ARIA Listbox - aria-descendent
+  - :focus and :hover both
+  - Menubar and menuitems
+  - Dialog and AlertDialog
+  - Tabs - role = tablist, tab, tabpanel
+  - Tables vs Grid
+  - aria-required
+  - aria-disabled
+  - aria-invalid, use aria-describedby to associate field with error message
+  - set focus to error message on submit OR use alertdialog for error with aria-live
+  - Sliders - aria-valuemin, aria-valuemax, aria-valuenow, aria-valuetext, aria-orientation="horizontal"
+  - Accordians - role="region", aria-controls, aria-expanded
+
