@@ -336,3 +336,18 @@ WCAG 2.0 - AA
   - Sliders - aria-valuemin, aria-valuemax, aria-valuenow, aria-valuetext, aria-orientation="horizontal"
   - Accordians - role="region", aria-controls, aria-expanded
 
+13- Testing tools
+  - VoiceOver for Mac
+  - JAWS for windows
+  - Screen readers are handled by key-board commands
+  - Translating text into Braille is not the only feature a screen reader may have.
+  - Many screen readers can display the text of their announcements onscreen
+  - Tab order should be maintained
+  - Heading/section should be maintained
+  - Role of element, state of element and element grouping (Billing and shipping address)
+  - alt on image
+  - screen reader takes snapshot of web page and put in virtual buffer and NOT every screen reader interacts with virtual buffer in same way
+  
+
+
+
