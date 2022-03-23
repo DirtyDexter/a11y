@@ -347,7 +347,15 @@ WCAG 2.0 - AA
   - Role of element, state of element and element grouping (Billing and shipping address)
   - alt on image
   - screen reader takes snapshot of web page and put in virtual buffer and NOT every screen reader interacts with virtual buffer in same way
-  
 
+
+14- Meaningful alt text image for image
+  - https://webaim.org/techniques/alttext/
+  - https://www.w3.org/WAI/tutorials/images/decision-tree/
+
+15- Accessible emails
+  - Inclusive design principles - https://inclusivedesignprinciples.org/#a11y
+  - A11y testing - https://khan.github.io/tota11y/
+  - Contrast testing - http://mraccess77.github.io/CanvasContrastChecker.html
 
 
